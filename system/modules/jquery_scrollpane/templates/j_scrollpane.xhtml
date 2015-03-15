@@ -1,0 +1,18 @@
+<?php
+
+$GLOBALS['TL_CSS'][] = 'system/modules/jquery_scrollpane/assets/jquery.jscrollpane.css||static';
+$GLOBALS['TL_JAVASCRIPT'][] = 'system/modules/jquery_scrollpane/assets/jquery.mousewheel.min.js|static';
+$GLOBALS['TL_JAVASCRIPT'][] = 'system/modules/jquery_scrollpane/assets/jquery.jscrollpane.min.js|static';
+
+?>
+
+<script>
+(function($){
+  "use strict";
+  $(document).ready(function($){
+    $('.scroll-pane').jScrollPane({
+      // put your custom configuration here
+    });
+  });
+})(jQuery);
+</script>
