@@ -1,4 +1,8 @@
-Contao jQuery selectBox
+[![](https://img.shields.io/maintenance/yes/2015.svg)](https://github.com/fritzmg/contao-jquery-scrollpane)
+[![](https://img.shields.io/packagist/v/fritzmg/contao-jquery-scrollpane.svg)](https://packagist.org/packages/fritzmg/contao-jquery-scrollpane)
+[![](https://img.shields.io/packagist/dt/fritzmg/contao-jquery-scrollpane.svg)](https://packagist.org/packages/fritzmg/contao-jquery-scrollpane)
+
+Contao jQuery ScrollPane
 ===================
 
 Simple extension to provide the [jScrollPane plugin by marcj](http://jscrollpane.kelvinluck.com/) in Contao.
